@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/demo1/pom.xml" />
+        <option value="$PROJECT_DIR$/demo04_mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/demo03_junit/pom.xml" />
+        <option value="$PROJECT_DIR$/demo02_config/pom.xml" />
+        <option value="$PROJECT_DIR$/demo05_mybatis_plus/pom.xml" />
+        <option value="$PROJECT_DIR$/demo06_druid/pom.xml" />
+        <option value="$PROJECT_DIR$/demo07_ssmp/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" project-jdk-name="azul-17" project-jdk-type="JavaSDK" />
+</project>

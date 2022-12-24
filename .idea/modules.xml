@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo02_config/demo02_config.iml" filepath="$PROJECT_DIR$/demo02_config/demo02_config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo03_junit/demo03_junit.iml" filepath="$PROJECT_DIR$/demo03_junit/demo03_junit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo04_mybatis/demo04_mybatis.iml" filepath="$PROJECT_DIR$/demo04_mybatis/demo04_mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo05_mybatis_plus/demo05_mybatis_plus.iml" filepath="$PROJECT_DIR$/demo05_mybatis_plus/demo05_mybatis_plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo06_druid/demo06_druid.iml" filepath="$PROJECT_DIR$/demo06_druid/demo06_druid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo07_ssmp/demo07_ssmp.iml" filepath="$PROJECT_DIR$/demo07_ssmp/demo07_ssmp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo1/demo1.iml" filepath="$PROJECT_DIR$/demo1/demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springboot.iml" filepath="$PROJECT_DIR$/.idea/springboot.iml" />
+    </modules>
+  </component>
+</project>
